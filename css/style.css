@@ -170,6 +170,9 @@ nav ul a:hover{
 
 
 .Contacto1 {
+    border: solid 2px blue;
+    width: 350px;
+    height: 250px;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -182,8 +185,8 @@ nav ul a:hover{
 }
 
 .Contacto2 {
-    justify-self: center;
     align-self: center;
+    justify-self: center;
     margin-top: 10px;
     margin-bottom: 20px;
 }
@@ -213,7 +216,7 @@ nav ul a:hover{
 
 
 .ContenMenuDown {
-    background-color: #02e675;
+    border: solid 2px blue;
     width: 350px;
     height: 250px;
     display: flex;
@@ -365,12 +368,14 @@ h2 {
     }
     .Contacto2 {
         margin: 50px;
+        position: relative;
+        left: 22px;
     }
     .Contacto3 {
-            margin: 50px;
+        margin: 50px;
     }
     .mensajeCuerpo {
-    margin-top: 50px;
+        margin-top: 50px;
     }
 
 
