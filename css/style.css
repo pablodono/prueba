@@ -281,13 +281,16 @@ h2 {
     
 
 .Redes h2 {
+    font-family:'Poppins', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
     color: white;
 }
 
 .ContenMenuDown li h3 {
     color: white;
     }
-    
+     
 
 
 .descripcionBaires {
